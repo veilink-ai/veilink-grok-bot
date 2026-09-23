@@ -37,7 +37,8 @@ set up automatic follow-up:
 2. Open the saved routine's details in Grok Bot and copy its POST URL and sender
    key. Save them in Veilink's dedicated **Grok Bot routine** account setting.
    The sender key is a secret; do not paste it into chat or a generic webhook.
-3. Send the test wake offered by that setting, then confirm the Bot run finishes
+3. Once Veilink enables automatic delivery, use an eligible Veilink event to
+   verify that the Bot run finishes
    in its Run history. An HTTP 200 only means the run started.
 
 The routine is optional; installing this plugin does not create or activate one.
