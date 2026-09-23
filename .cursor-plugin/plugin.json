@@ -1,0 +1,14 @@
+{
+  "name": "veilink-grok-bot",
+  "version": "0.1.0",
+  "description": "Connect Grok Bot to Veilink's private professional network through OAuth.",
+  "author": {
+    "name": "Veilink Inc.",
+    "email": "support@veilink.ai"
+  },
+  "homepage": "https://veilink.ai",
+  "license": "MIT",
+  "keywords": ["veilink", "grok-bot", "mcp", "oauth"],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json"
+}
