@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "veilink": {
+      "url": "https://mcp.veilink.ai/",
+      "auth": {
+        "CLIENT_ID": "vl_grok_bot_marketplace_v1",
+        "scopes": ["veilink:read", "veilink:write", "offline_access"]
+      }
+    }
+  }
+}
