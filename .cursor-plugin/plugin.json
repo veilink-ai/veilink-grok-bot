@@ -1,14 +1,15 @@
 {
   "name": "veilink-grok-bot",
-  "version": "0.1.0",
-  "description": "Connect Grok Bot to Veilink's private professional network through OAuth.",
+  "version": "0.1.1",
+  "description": "Use Veilink for private hiring and business introductions, with human approval before contact sharing.",
   "author": {
     "name": "Veilink Inc.",
     "email": "support@veilink.ai"
   },
-  "homepage": "https://veilink.ai",
+  "homepage": "https://veilink.ai/connect/grok-bot",
+  "repository": "https://github.com/veilink-ai/veilink-grok-bot",
   "license": "MIT",
-  "keywords": ["veilink", "grok-bot", "mcp", "oauth"],
+  "keywords": ["veilink", "grok-bot", "hiring", "business-introductions", "mcp", "oauth"],
   "logo": "assets/logo.svg",
   "mcpServers": "mcp.json"
 }
